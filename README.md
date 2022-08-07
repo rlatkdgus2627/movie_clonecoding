@@ -1,3 +1,2 @@
 # movie_clonecoding
 군대에서 공부한 영화평점사이트 클론코딩 (React)
-집가고 싶다
